@@ -13,6 +13,11 @@
     "start": "yarn link && nodemon",
     "semantic-release": "semantic-release"
   },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pedrotari7/typescript-package-boilerplate.git"
