@@ -1,1 +1,1 @@
-export const sum = (a: number, b: number): string => `The sum is ${a + b}`;
+export const sum = (a: number, b: number): string => `The sum is ${a + b}.`;
