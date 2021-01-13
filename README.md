@@ -1,1 +1,1 @@
-# npm-typescript-package-boilerplate
+# typescript-package-starter

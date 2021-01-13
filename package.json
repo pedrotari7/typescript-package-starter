@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-boilerplate",
+  "name": "typescript-package-starter",
   "version": "0.0.0",
   "description": "A boilerplate repo for creating and generating publishing typescript",
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedrotari7/typescript-package-boilerplate.git"
+    "url": "https://github.com/pedrotari7/typescript-package-starter.git"
   },
   "keywords": [
     "Typescript",
@@ -31,9 +31,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pedrotari7/typescript-package-boilerplate/issues"
+    "url": "https://github.com/pedrotari7/typescript-package-starter/issues"
   },
-  "homepage": "https://github.com/pedrotari7/typescript-package-boilerplate#readme",
+  "homepage": "https://github.com/pedrotari7/typescript-package-starter#readme",
   "husky": {
     "hooks": {
       "pre-commit": "npm run lint && npm test",
