@@ -1,1 +1,1 @@
-# typescript-package-starter
+#typescript-package-starter-kit
