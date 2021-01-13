@@ -1,5 +1,5 @@
 import { sum } from '..';
 
-test('My Greeter', () => {
-  expect(sum(2, 3)).toBe(5);
+test('sum', () => {
+  expect(sum(2, 3)).toBe('The sum is 5');
 });
